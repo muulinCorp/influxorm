@@ -1,4 +1,4 @@
-module github.com/94peter/influxorm
+module github.com/muulinCorp/influxorm
 
 go 1.21.7
 
